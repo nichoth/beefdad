@@ -48,6 +48,7 @@
     "node-sass": "^4.13.0",
     "preact-compat": "^3.19.0",
     "tap-spec": "^5.0.0",
+    "tape": "^4.13.2",
     "tape-run": "^6.0.1",
     "uglify-js": "^3.6.9",
     "unassertify": "^2.1.1"
